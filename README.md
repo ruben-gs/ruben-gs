@@ -21,5 +21,6 @@ Welcome to my GitHub profile! I'm a passionate of CS, mechanical engineering, an
 
 ### Get in Touch
 
+- [Linktr.ee](linktr.ee/rubensgll)
 - [X](https://x.com/rubensgll)
 - [LinkedIn](https://www.linkedin.com/in/ruben-gs/)
